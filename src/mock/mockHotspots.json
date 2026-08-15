@@ -1,0 +1,44 @@
+[
+  {
+    "ward": "Hinoo",
+    "latitude": 23.3684,
+    "longitude": 85.2907,
+    "issue_count": 13
+  },
+  {
+    "ward": "Lalpur",
+    "latitude": 23.3165,
+    "longitude": 85.2927,
+    "issue_count": 13
+  },
+  {
+    "ward": "Kanke",
+    "latitude": 23.3322,
+    "longitude": 85.3296,
+    "issue_count": 11
+  },
+  {
+    "ward": "Bariatu",
+    "latitude": 23.4002,
+    "longitude": 85.3405,
+    "issue_count": 7
+  },
+  {
+    "ward": "Doranda",
+    "latitude": 23.4097,
+    "longitude": 85.2803,
+    "issue_count": 6
+  },
+  {
+    "ward": "Kokar",
+    "latitude": 23.3641,
+    "longitude": 85.3442,
+    "issue_count": 6
+  },
+  {
+    "ward": "Harmu",
+    "latitude": 23.4057,
+    "longitude": 85.3137,
+    "issue_count": 4
+  }
+]

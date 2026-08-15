@@ -1,0 +1,7 @@
+{
+  "total": 60,
+  "critical": 15,
+  "pending": 23,
+  "resolved": 12,
+  "sla_breaches": 20
+}
